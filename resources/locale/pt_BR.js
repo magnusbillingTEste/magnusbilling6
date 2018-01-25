@@ -1,4 +1,5 @@
 Locale.load({
+    'Translate test' : 'Teste Tradução',
     'Email in use more than 1 account, contact administrator': 'Email em uso por mais de 1 conta, entre em contato com o administrador',
     'You can\'t request admin password': 'Você não pode recuperar conta de administrador',
     'Click here': 'Clique aquí',
